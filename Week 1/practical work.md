@@ -1,1 +1,3 @@
-# ZA-NOS-EPORTFOLIO-2025
+There were no seminars as this was the first week of the new module. There wasn't much work to be done to be honest except for the quiz. I managed to get 90% on the quiz after re-reading the slides and tried my best to try answering without having the slides open. 
+
+There was 1 question that I got wrong which was the one regarding the probability of a system working perfectly if it had 50 components each working correctly 99% of the time. Although I knew how to calculate the answer, I didn't read the question properly, and I put 60.5% instead of 39.5%.
