@@ -1,1 +1,3 @@
-# ZA-NOS-EPORTFOLIO-2025
+This seminar felt like an introduction course to Python. There were 8 different tasks and there were instructions on how to use visual studio and installing jupyter notebook. As I already have prior experience to using Python, one of the assistants told me that I can skip the first few tasks and move straight onto the more challenging ones. I worked on task 5, the functions part, as a warm up before moving on to the password checker (task 6), which wasn't all too challenging. 
+
+Surprisingly, I found task 7 - the caesar cipher task to be more challenging than the hangman game. 
