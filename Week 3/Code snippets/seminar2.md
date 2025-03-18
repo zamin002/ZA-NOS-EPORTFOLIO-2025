@@ -21,3 +21,7 @@ get_ip_address(website)
 In the third week we had our second seminar. Here, the first task was to use the example code that takes a URL as user input and try returning the IP address that correlates with it. 
 
 I ran this code and used the 4 websites mentioned in the comments and got those IP addresses in return, confirming that it works. When I tried inputting a URL that included the "https" part, the error was caught by the exception handling, which further proves that the code works.
+
+Excercise 4: Some bottlenecks may be caused by firewalls blocking ICMP packets or one cause may be that there is network congestion or possible packet loss. 
+
+Excercise 5: If I was in campus connected to campus wifi I would notice that any domain that I will try trace would often say "request timed out" after most hops unlike at home where I would actually be able to see results.
