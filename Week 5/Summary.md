@@ -1,1 +1,1 @@
-# ZA-NOS-EPORTFOLIO-2025
+There was no lecture during week 5 as it was reading week. During this week I've only been re reading the previous slides and started finishing off some of the prior seminars that I haven't completed
