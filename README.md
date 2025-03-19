@@ -1,1 +1,1 @@
-# ZA-NOS-EPORTFOLIO-2025
+I acknowledge the use of AI in this assignment. I've only used it to fix the indentation of the code examples provided in the seminars as copying directly from the seminars just result into none of the lines having proper indentation. The prompt I used was "fix the indentation of this code without modifying anything else".
